@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 """
-cleanUpFolder.py v1.0 - 2017 Copyright: TheSpatializer - Apache License 2.0
+cleanUpFolder.py v1.1 - 2017 Copyright: TheSpatializer - Apache License 2.0
 This script has been written in Python 3.5 and can be used for educational purpose only.
 Edition is encouraged as well as remarks and ideas for future improvement.
 Source : 
